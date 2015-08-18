@@ -1,1 +1,21 @@
-#crack hashes
+# hashcrack #
+Fast <sup>citation needed</sup> hash cracking using dictionaries.
+
+## How to use it##
+```bash
+./hashcrack <dictionary> <hash>
+```
+
+
+## TODO ##
+* add more hashes
+* parralel hash checking
+* add multiple hash checking levels 
+
+## Requirements ##
+1. make
+2. openssl development headers
+4. make 
+
+## Why? ##
+Because.
