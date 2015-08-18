@@ -9,7 +9,7 @@ Fast <sup>citation needed</sup> hash cracking using dictionaries.
 
 ## TODO ##
 * add more hashes
-* parralel hash checking
+* parallel hash checking
 * add multiple hash checking levels 
 
 ## Requirements ##
