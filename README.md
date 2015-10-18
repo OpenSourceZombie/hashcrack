@@ -1,5 +1,5 @@
 # hashcrack #
-Fast <sup>citation needed</sup> hash cracking using dictionaries.
+Simple hash cracking using dictionaries.
 
 ## How to use it ##
 ```bash
