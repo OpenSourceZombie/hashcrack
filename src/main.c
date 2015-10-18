@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<openssl/md5.h>
-#include<stdbool.h>
+#,include<stdbool.h>
 #include<string.h>
 #include<ctype.h>
 bool compare(char *str, char digest[16]);
